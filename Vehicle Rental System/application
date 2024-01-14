@@ -1,0 +1,1 @@
+on linuxg++ -std=c++11 ./*.cpp -o application chmod +x application  ./application
